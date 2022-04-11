@@ -1,6 +1,6 @@
 import './App.css';
-import PersonComponent from './components/myComponents';
 
+import PersonComponent from './components/PersonComponent';
 
 function App() {
   return (

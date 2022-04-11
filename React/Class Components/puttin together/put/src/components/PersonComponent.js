@@ -1,6 +1,8 @@
-import React, { Component } from 'react';
 
-class myComponents extends Component {
+import React, { Component } from 'react';
+    
+    
+class PersonComponent extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -18,4 +20,4 @@ class myComponents extends Component {
     }
 }
     
-export default myComponents;
+export default PersonComponent;
